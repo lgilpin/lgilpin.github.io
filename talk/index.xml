@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Leilani H. Gilpin</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/good1.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Explanation-based Anomaly Detection</title>
+      <link>/talk/wids-2020/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/wids-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSAIL Student Profile</title>
+      <link>/talk/csail-student-profile/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/csail-student-profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Explanations for Robust Autonomous Decision Making</title>
+      <link>/talk/ucsd-datascience-2019/</link>
+      <pubDate>Wed, 23 Oct 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/ucsd-datascience-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automotive FOSS Panel</title>
+      <link>/talk/sflc-panel/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/sflc-panel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Explanation and Self-Driving</title>
+      <link>/talk/sflc-2018/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/sflc-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

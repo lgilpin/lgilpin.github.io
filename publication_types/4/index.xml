@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Leilani H. Gilpin</title>
+    <link>/publication_types/4/</link>
+      <atom:link href="/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/good1.png</url>
+      <title>4</title>
+      <link>/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>Negative News No More: Classifying News Article Headlines</title>
+      <link>/publication/bergen-2012-negative/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/bergen-2012-negative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

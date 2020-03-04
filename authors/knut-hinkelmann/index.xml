@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knut Hinkelmann | Leilani H. Gilpin</title>
+    <link>/authors/knut-hinkelmann/</link>
+      <atom:link href="/authors/knut-hinkelmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Knut Hinkelmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/good1.png</url>
+      <title>Knut Hinkelmann</title>
+      <link>/authors/knut-hinkelmann/</link>
+    </image>
+    
+    <item>
+      <title>Reports of the AAAI 2019 Spring Symposium Series</title>
+      <link>/publication/baldini-2019-reports/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/baldini-2019-reports/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

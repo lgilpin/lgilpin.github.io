@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Patnaik | Leilani H. Gilpin</title>
+    <link>/authors/daniel-patnaik/</link>
+      <atom:link href="/authors/daniel-patnaik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Patnaik</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/good1.png</url>
+      <title>Daniel Patnaik</title>
+      <link>/authors/daniel-patnaik/</link>
+    </image>
+    
+    <item>
+      <title>Automotive FOSS Panel</title>
+      <link>/talk/sflc-panel/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/sflc-panel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathaniel Fruchte | Leilani H. Gilpin</title>
+    <link>/authors/nathaniel-fruchte/</link>
+      <atom:link href="/authors/nathaniel-fruchte/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathaniel Fruchte</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/good1.png</url>
+      <title>Nathaniel Fruchte</title>
+      <link>/authors/nathaniel-fruchte/</link>
+    </image>
+    
+    <item>
+      <title>Explaining Explanations to Society</title>
+      <link>/publication/gilpin-2018-explaining-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gilpin-2018-explaining-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

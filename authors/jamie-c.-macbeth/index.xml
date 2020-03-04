@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jamie C. Macbeth | Leilani H. Gilpin</title>
+    <link>/authors/jamie-c.-macbeth/</link>
+      <atom:link href="/authors/jamie-c.-macbeth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jamie C. Macbeth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/good1.png</url>
+      <title>Jamie C. Macbeth</title>
+      <link>/authors/jamie-c.-macbeth/</link>
+    </image>
+    
+    <item>
+      <title>Monitoring Scene Understanders with Conceptual Primitive Decomposition and Commonsense Knowledge</title>
+      <link>/publication/gilpin-2018-monitoring/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gilpin-2018-monitoring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Leilani H. Gilpin</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/good1.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>autonomous driving</title>
+      <link>/tags/autonomous-driving/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/autonomous-driving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>explanations</title>
+      <link>/tags/explanations/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/explanations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>panel</title>
+      <link>/tags/panel/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/panel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

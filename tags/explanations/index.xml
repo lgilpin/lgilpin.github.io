@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>explanations | Leilani H. Gilpin</title>
+    <link>/tags/explanations/</link>
+      <atom:link href="/tags/explanations/index.xml" rel="self" type="application/rss+xml" />
+    <description>explanations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/good1.png</url>
+      <title>explanations</title>
+      <link>/tags/explanations/</link>
+    </image>
+    
+    <item>
+      <title>Explaining Possible Futures for Robust Autonomous Decision-Making</title>
+      <link>/publication/gilpin-2019-aaaifall/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gilpin-2019-aaaifall/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

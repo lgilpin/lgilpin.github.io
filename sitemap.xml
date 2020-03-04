@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/wids-2020/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/leilani-h.-gilpin/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/csail-student-profile/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/autonomous-driving/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-aaaifall/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/explanations/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ucsd-datascience-2019/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ai-ethics/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/explanatory-games/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/reasonableness-monitors/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/car-can-explain/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/others/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-adaptable/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/antonio-chella/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/carlos-cinelli/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/clark-barrett/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-gamez/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dylan-holmes/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ioana-baldini/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/knut-hinkelmann/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lalana-kagal/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-learning/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/leilani-gilpin/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-monitoring/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/murat-kocaoglu/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/baldini-2019-reports/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/takashi-kido/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tianye-chen/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/and-mishi-choudhary/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-sinclair/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/sflc-panel/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-patnaik/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jeremiah-foster/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/moderated-by-eben-moglen/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/panel/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/sflc-2018/</loc>
+    <lastmod>2020-03-04T17:21:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ayesha-bajwa/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ben-z-yuan/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cagri-zaman/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cecilia-testart/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/danielle-m.-olson/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/danielle-olson/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-bau/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/evelyn-florentine/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-explaining-2/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-explaining/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jamie-c.-macbeth/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julius-adebayo/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-specter/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-monitoring/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nathaniel-fruchte/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-perception/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-reasonable/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2018-reasonableness/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tarfah-alrashed/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ben-ze-yuan/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2017-getting/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aaron-wilson/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ayesha-bose/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-davies/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/eric-bier/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/liu-2016-graph/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jamin-agosti/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-alexis-guerra-gomez/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/juan-liu/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kumar-sricharan/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/quinn-dang/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bose-2016-veicl/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tomonori-honda/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2014-co/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/laurent-ciarletta/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vincent-chevrier/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/virginie-galtier/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yannick-presse/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/4/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/karianne-bergen/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bergen-2012-negative/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2011-impact/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-03-04T12:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+</urlset>

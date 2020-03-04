@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julius Adebayo | Leilani H. Gilpin</title>
+    <link>/authors/julius-adebayo/</link>
+      <atom:link href="/authors/julius-adebayo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julius Adebayo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/good1.png</url>
+      <title>Julius Adebayo</title>
+      <link>/authors/julius-adebayo/</link>
+    </image>
+    
+    <item>
+      <title>Explaining Explanations to Society</title>
+      <link>/publication/gilpin-2018-explaining-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gilpin-2018-explaining-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
