@@ -87,6 +87,30 @@
     </item>
     
     <item>
+      <title>Learning From Explanations for Robust Autonomous Driving.</title>
+      <link>/publication/gilpin-2019-learning/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gilpin-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptable Self-Monitoring Framework for Opaque Machines</title>
+      <link>/publication/gilpin-2019-adaptable/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gilpin-2019-adaptable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Opaque Learning Systems</title>
+      <link>/publication/gilpin-2019-monitoring/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gilpin-2019-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AI and ethics</title>
       <link>/project/ai-ethics/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
@@ -115,30 +139,6 @@
       <link>/project/car-can-explain/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
       <guid>/project/car-can-explain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Adaptable Self-Monitoring Framework for Opaque Machines</title>
-      <link>/publication/gilpin-2019-adaptable/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2019-adaptable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning From Explanations for Robust Autonomous Driving.</title>
-      <link>/publication/gilpin-2019-learning/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2019-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monitoring Opaque Learning Systems</title>
-      <link>/publication/gilpin-2019-monitoring/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2019-monitoring/</guid>
       <description></description>
     </item>
     

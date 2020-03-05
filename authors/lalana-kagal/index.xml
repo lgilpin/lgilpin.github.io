@@ -5,7 +5,7 @@
     <link>/authors/lalana-kagal/</link>
       <atom:link href="/authors/lalana-kagal/index.xml" rel="self" type="application/rss+xml" />
     <description>Lalana Kagal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/good1.png</url>
       <title>Lalana Kagal</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>An Adaptable Self-Monitoring Framework for Opaque Machines</title>
-      <link>/publication/gilpin-2019-adaptable/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2019-adaptable/</guid>
+      <title>Learning From Explanations for Robust Autonomous Driving.</title>
+      <link>/publication/gilpin-2019-learning/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gilpin-2019-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning From Explanations for Robust Autonomous Driving.</title>
-      <link>/publication/gilpin-2019-learning/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2019-learning/</guid>
+      <title>An Adaptable Self-Monitoring Framework for Opaque Machines</title>
+      <link>/publication/gilpin-2019-adaptable/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gilpin-2019-adaptable/</guid>
       <description></description>
     </item>
     

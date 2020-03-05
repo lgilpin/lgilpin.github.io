@@ -28,12 +28,12 @@
   </url>
   
   <url>
-    <loc>/authors/leilani-h.-gilpin/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-04T17:21:48-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/authors/leilani-h.-gilpin/</loc>
     <lastmod>2020-03-04T17:21:48-05:00</lastmod>
   </url>
   
@@ -78,6 +78,36 @@
   </url>
   
   <url>
+    <loc>/authors/lalana-kagal/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-learning/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tianye-chen/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-adaptable/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gilpin-2019-monitoring/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/ai-ethics/</loc>
     <lastmod>2020-03-04T12:03:11-05:00</lastmod>
   </url>
@@ -108,12 +138,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/publication_types/0/</loc>
     <lastmod>2020-02-22T10:07:38-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/gilpin-2019-adaptable/</loc>
+    <loc>/tags/ai-magazine/</loc>
     <lastmod>2020-02-22T10:07:38-05:00</lastmod>
   </url>
   
@@ -153,22 +183,7 @@
   </url>
   
   <url>
-    <loc>/authors/lalana-kagal/</loc>
-    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/gilpin-2019-learning/</loc>
-    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/leilani-gilpin/</loc>
-    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/gilpin-2019-monitoring/</loc>
     <lastmod>2020-02-22T10:07:38-05:00</lastmod>
   </url>
   
@@ -183,12 +198,17 @@
   </url>
   
   <url>
-    <loc>/authors/takashi-kido/</loc>
+    <loc>/tags/story-enabled-intelligence/</loc>
     <lastmod>2020-02-22T10:07:38-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/tianye-chen/</loc>
+    <loc>/tags/survey/</loc>
+    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/takashi-kido/</loc>
     <lastmod>2020-02-22T10:07:38-05:00</lastmod>
   </url>
   
@@ -434,11 +454,6 @@
   
   <url>
     <loc>/publication/bergen-2012-negative/</loc>
-    <lastmod>2020-02-22T10:07:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/0/</loc>
     <lastmod>2020-02-22T10:07:38-05:00</lastmod>
   </url>
   

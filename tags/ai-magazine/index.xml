@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0 | Leilani H. Gilpin</title>
-    <link>/publication_types/0/</link>
-      <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
-    <description>0</description>
+    <title>ai-magazine | Leilani H. Gilpin</title>
+    <link>/tags/ai-magazine/</link>
+      <atom:link href="/tags/ai-magazine/index.xml" rel="self" type="application/rss+xml" />
+    <description>ai-magazine</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/good1.png</url>
-      <title>0</title>
-      <link>/publication_types/0/</link>
+      <title>ai-magazine</title>
+      <link>/tags/ai-magazine/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/baldini-2019-reports/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/baldini-2019-reports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Impact of Topology and Communication Models on Connectivity in Networks</title>
-      <link>/publication/gilpin-2011-impact/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2011-impact/</guid>
       <description></description>
     </item>
     
