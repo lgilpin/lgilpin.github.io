@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ayesha Bajwa | Leilani H. Gilpin</title>
-    <link>http://people.csail.mit.edu/lgilpin/authors/ayesha-bajwa/</link>
-      <atom:link href="http://people.csail.mit.edu/lgilpin/authors/ayesha-bajwa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://leilanihg.github.io/authors/ayesha-bajwa/</link>
+      <atom:link href="https://leilanihg.github.io/authors/ayesha-bajwa/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayesha Bajwa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
+      <url>https://leilanihg.github.io/img/good1.png</url>
       <title>Ayesha Bajwa</title>
-      <link>http://people.csail.mit.edu/lgilpin/authors/ayesha-bajwa/</link>
+      <link>https://leilanihg.github.io/authors/ayesha-bajwa/</link>
     </image>
     
     <item>
       <title>Explaining explanations: An overview of interpretability of machine learning</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-explaining/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-explaining/</guid>
       <description></description>
     </item>
     

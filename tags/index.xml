@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Leilani H. Gilpin</title>
-    <link>http://people.csail.mit.edu/lgilpin/tags/</link>
-      <atom:link href="http://people.csail.mit.edu/lgilpin/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://leilanihg.github.io/tags/</link>
+      <atom:link href="https://leilanihg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
+      <url>https://leilanihg.github.io/img/good1.png</url>
       <title>Tags</title>
-      <link>http://people.csail.mit.edu/lgilpin/tags/</link>
+      <link>https://leilanihg.github.io/tags/</link>
     </image>
     
     <item>
       <title>autonomous driving</title>
-      <link>http://people.csail.mit.edu/lgilpin/tags/autonomous-driving/</link>
+      <link>https://leilanihg.github.io/tags/autonomous-driving/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/tags/autonomous-driving/</guid>
+      <guid>https://leilanihg.github.io/tags/autonomous-driving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>explanations</title>
-      <link>http://people.csail.mit.edu/lgilpin/tags/explanations/</link>
+      <link>https://leilanihg.github.io/tags/explanations/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/tags/explanations/</guid>
+      <guid>https://leilanihg.github.io/tags/explanations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ai-magazine</title>
-      <link>http://people.csail.mit.edu/lgilpin/tags/ai-magazine/</link>
+      <link>https://leilanihg.github.io/tags/ai-magazine/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/tags/ai-magazine/</guid>
+      <guid>https://leilanihg.github.io/tags/ai-magazine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>story-enabled-intelligence</title>
-      <link>http://people.csail.mit.edu/lgilpin/tags/story-enabled-intelligence/</link>
+      <link>https://leilanihg.github.io/tags/story-enabled-intelligence/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/tags/story-enabled-intelligence/</guid>
+      <guid>https://leilanihg.github.io/tags/story-enabled-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>survey</title>
-      <link>http://people.csail.mit.edu/lgilpin/tags/survey/</link>
+      <link>https://leilanihg.github.io/tags/survey/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/tags/survey/</guid>
+      <guid>https://leilanihg.github.io/tags/survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>panel</title>
-      <link>http://people.csail.mit.edu/lgilpin/tags/panel/</link>
+      <link>https://leilanihg.github.io/tags/panel/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/tags/panel/</guid>
+      <guid>https://leilanihg.github.io/tags/panel/</guid>
       <description></description>
     </item>
     

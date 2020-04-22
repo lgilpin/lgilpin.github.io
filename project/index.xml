@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Leilani H. Gilpin</title>
-    <link>http://people.csail.mit.edu/lgilpin/project/</link>
-      <atom:link href="http://people.csail.mit.edu/lgilpin/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://leilanihg.github.io/project/</link>
+      <atom:link href="https://leilanihg.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2019 10:50:48 -0400</lastBuildDate>
     <image>
-      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
+      <url>https://leilanihg.github.io/img/good1.png</url>
       <title>Projects</title>
-      <link>http://people.csail.mit.edu/lgilpin/project/</link>
+      <link>https://leilanihg.github.io/project/</link>
     </image>
     
     <item>
       <title>AI and ethics</title>
-      <link>http://people.csail.mit.edu/lgilpin/project/ai-ethics/</link>
+      <link>https://leilanihg.github.io/project/ai-ethics/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/project/ai-ethics/</guid>
+      <guid>https://leilanihg.github.io/project/ai-ethics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explanatory Games</title>
-      <link>http://people.csail.mit.edu/lgilpin/project/explanatory-games/</link>
+      <link>https://leilanihg.github.io/project/explanatory-games/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/project/explanatory-games/</guid>
+      <guid>https://leilanihg.github.io/project/explanatory-games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring Decision Systems</title>
-      <link>http://people.csail.mit.edu/lgilpin/project/reasonableness-monitors/</link>
+      <link>https://leilanihg.github.io/project/reasonableness-monitors/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/project/reasonableness-monitors/</guid>
+      <guid>https://leilanihg.github.io/project/reasonableness-monitors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Car Can Explain!</title>
-      <link>http://people.csail.mit.edu/lgilpin/project/car-can-explain/</link>
+      <link>https://leilanihg.github.io/project/car-can-explain/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/project/car-can-explain/</guid>
+      <guid>https://leilanihg.github.io/project/car-can-explain/</guid>
       <description></description>
     </item>
     

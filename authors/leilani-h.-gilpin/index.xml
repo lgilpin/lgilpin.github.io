@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leilani H. Gilpin</title>
-    <link>http://people.csail.mit.edu/lgilpin/authors/leilani-h.-gilpin/</link>
-      <atom:link href="http://people.csail.mit.edu/lgilpin/authors/leilani-h.-gilpin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://leilanihg.github.io/authors/leilani-h.-gilpin/</link>
+      <atom:link href="https://leilanihg.github.io/authors/leilani-h.-gilpin/index.xml" rel="self" type="application/rss+xml" />
     <description>Leilani H. Gilpin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
+      <url>https://leilanihg.github.io/img/good1.png</url>
       <title>Leilani H. Gilpin</title>
-      <link>http://people.csail.mit.edu/lgilpin/authors/leilani-h.-gilpin/</link>
+      <link>https://leilanihg.github.io/authors/leilani-h.-gilpin/</link>
     </image>
     
     <item>
       <title>Explanation-based Anomaly Detection</title>
-      <link>http://people.csail.mit.edu/lgilpin/talk/wids-2020/</link>
+      <link>https://leilanihg.github.io/talk/wids-2020/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/talk/wids-2020/</guid>
+      <guid>https://leilanihg.github.io/talk/wids-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSAIL Student Profile</title>
-      <link>http://people.csail.mit.edu/lgilpin/talk/csail-student-profile/</link>
+      <link>https://leilanihg.github.io/talk/csail-student-profile/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/talk/csail-student-profile/</guid>
+      <guid>https://leilanihg.github.io/talk/csail-student-profile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Possible Futures for Robust Autonomous Decision-Making</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-aaaifall/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2019-aaaifall/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-aaaifall/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2019-aaaifall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning From Explanations for Robust Autonomous Driving.</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2019-learning/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2019-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Adaptable Self-Monitoring Framework for Opaque Machines</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-adaptable/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2019-adaptable/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-adaptable/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2019-adaptable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring Opaque Learning Systems</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-monitoring/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2019-monitoring/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-monitoring/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2019-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automotive FOSS Panel</title>
-      <link>http://people.csail.mit.edu/lgilpin/talk/sflc-panel/</link>
+      <link>https://leilanihg.github.io/talk/sflc-panel/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/talk/sflc-panel/</guid>
+      <guid>https://leilanihg.github.io/talk/sflc-panel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Explanation and Self-Driving</title>
-      <link>http://people.csail.mit.edu/lgilpin/talk/sflc-2018/</link>
+      <link>https://leilanihg.github.io/talk/sflc-2018/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/talk/sflc-2018/</guid>
+      <guid>https://leilanihg.github.io/talk/sflc-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Explanations to Society</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining-2/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-explaining-2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining-2/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-explaining-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining explanations: An overview of interpretability of machine learning</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-explaining/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-explaining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring Scene Understanders with Conceptual Primitive Decomposition and Commonsense Knowledge</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-monitoring/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-monitoring/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-monitoring/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception of Speaker Personality Traits Using Speech Signals</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-perception/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-perception/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-perception/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reasonable perception: Connecting vision and language systems for validating scene descriptions</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonable/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-reasonable/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonable/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-reasonable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reasonableness Monitors</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonableness/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-reasonableness/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonableness/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-reasonableness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Up to Speed on Vehicle Intelligence</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2017-getting/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2017-getting/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2017-getting/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2017-getting/</guid>
       <description></description>
     </item>
     

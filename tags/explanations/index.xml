@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>explanations | Leilani H. Gilpin</title>
-    <link>http://people.csail.mit.edu/lgilpin/tags/explanations/</link>
-      <atom:link href="http://people.csail.mit.edu/lgilpin/tags/explanations/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://leilanihg.github.io/tags/explanations/</link>
+      <atom:link href="https://leilanihg.github.io/tags/explanations/index.xml" rel="self" type="application/rss+xml" />
     <description>explanations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
+      <url>https://leilanihg.github.io/img/good1.png</url>
       <title>explanations</title>
-      <link>http://people.csail.mit.edu/lgilpin/tags/explanations/</link>
+      <link>https://leilanihg.github.io/tags/explanations/</link>
     </image>
     
     <item>
       <title>Explaining Possible Futures for Robust Autonomous Decision-Making</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-aaaifall/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2019-aaaifall/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-aaaifall/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2019-aaaifall/</guid>
       <description></description>
     </item>
     

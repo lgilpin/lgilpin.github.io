@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leilani H. Gilpin</title>
-    <link>http://people.csail.mit.edu/lgilpin/</link>
-      <atom:link href="http://people.csail.mit.edu/lgilpin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://leilanihg.github.io/</link>
+      <atom:link href="https://leilanihg.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Leilani H. Gilpin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
+      <url>https://leilanihg.github.io/img/good1.png</url>
       <title>Leilani H. Gilpin</title>
-      <link>http://people.csail.mit.edu/lgilpin/</link>
+      <link>https://leilanihg.github.io/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>http://people.csail.mit.edu/lgilpin/courses/example/example1/</link>
+      <link>https://leilanihg.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/courses/example/example1/</guid>
+      <guid>https://leilanihg.github.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>http://people.csail.mit.edu/lgilpin/courses/example/example2/</link>
+      <link>https://leilanihg.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/courses/example/example2/</guid>
+      <guid>https://leilanihg.github.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,209 +56,209 @@
     
     <item>
       <title>Explanation-based Anomaly Detection</title>
-      <link>http://people.csail.mit.edu/lgilpin/talk/wids-2020/</link>
+      <link>https://leilanihg.github.io/talk/wids-2020/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/talk/wids-2020/</guid>
+      <guid>https://leilanihg.github.io/talk/wids-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSAIL Student Profile</title>
-      <link>http://people.csail.mit.edu/lgilpin/talk/csail-student-profile/</link>
+      <link>https://leilanihg.github.io/talk/csail-student-profile/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/talk/csail-student-profile/</guid>
+      <guid>https://leilanihg.github.io/talk/csail-student-profile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Possible Futures for Robust Autonomous Decision-Making</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-aaaifall/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2019-aaaifall/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-aaaifall/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2019-aaaifall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Explanations for Robust Autonomous Decision Making</title>
-      <link>http://people.csail.mit.edu/lgilpin/talk/ucsd-datascience-2019/</link>
+      <link>https://leilanihg.github.io/talk/ucsd-datascience-2019/</link>
       <pubDate>Wed, 23 Oct 2019 13:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/talk/ucsd-datascience-2019/</guid>
+      <guid>https://leilanihg.github.io/talk/ucsd-datascience-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning From Explanations for Robust Autonomous Driving.</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2019-learning/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2019-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Adaptable Self-Monitoring Framework for Opaque Machines</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-adaptable/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2019-adaptable/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-adaptable/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2019-adaptable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring Opaque Learning Systems</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-monitoring/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2019-monitoring/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-monitoring/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2019-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI and ethics</title>
-      <link>http://people.csail.mit.edu/lgilpin/project/ai-ethics/</link>
+      <link>https://leilanihg.github.io/project/ai-ethics/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/project/ai-ethics/</guid>
+      <guid>https://leilanihg.github.io/project/ai-ethics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explanatory Games</title>
-      <link>http://people.csail.mit.edu/lgilpin/project/explanatory-games/</link>
+      <link>https://leilanihg.github.io/project/explanatory-games/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/project/explanatory-games/</guid>
+      <guid>https://leilanihg.github.io/project/explanatory-games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring Decision Systems</title>
-      <link>http://people.csail.mit.edu/lgilpin/project/reasonableness-monitors/</link>
+      <link>https://leilanihg.github.io/project/reasonableness-monitors/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/project/reasonableness-monitors/</guid>
+      <guid>https://leilanihg.github.io/project/reasonableness-monitors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Car Can Explain!</title>
-      <link>http://people.csail.mit.edu/lgilpin/project/car-can-explain/</link>
+      <link>https://leilanihg.github.io/project/car-can-explain/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/project/car-can-explain/</guid>
+      <guid>https://leilanihg.github.io/project/car-can-explain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reports of the AAAI 2019 Spring Symposium Series</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/baldini-2019-reports/</link>
+      <link>https://leilanihg.github.io/publication/baldini-2019-reports/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/baldini-2019-reports/</guid>
+      <guid>https://leilanihg.github.io/publication/baldini-2019-reports/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automotive FOSS Panel</title>
-      <link>http://people.csail.mit.edu/lgilpin/talk/sflc-panel/</link>
+      <link>https://leilanihg.github.io/talk/sflc-panel/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/talk/sflc-panel/</guid>
+      <guid>https://leilanihg.github.io/talk/sflc-panel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Explanation and Self-Driving</title>
-      <link>http://people.csail.mit.edu/lgilpin/talk/sflc-2018/</link>
+      <link>https://leilanihg.github.io/talk/sflc-2018/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/talk/sflc-2018/</guid>
+      <guid>https://leilanihg.github.io/talk/sflc-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Explanations to Society</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining-2/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-explaining-2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining-2/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-explaining-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining explanations: An overview of interpretability of machine learning</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-explaining/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-explaining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring Scene Understanders with Conceptual Primitive Decomposition and Commonsense Knowledge</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-monitoring/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-monitoring/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-monitoring/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception of Speaker Personality Traits Using Speech Signals</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-perception/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-perception/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-perception/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reasonable perception: Connecting vision and language systems for validating scene descriptions</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonable/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-reasonable/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonable/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-reasonable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reasonableness Monitors</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonableness/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2018-reasonableness/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonableness/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2018-reasonableness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Up to Speed on Vehicle Intelligence</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2017-getting/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2017-getting/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2017-getting/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2017-getting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph analysis for detecting fraud, waste, and abuse in healthcare data</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/liu-2016-graph/</link>
+      <link>https://leilanihg.github.io/publication/liu-2016-graph/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/liu-2016-graph/</guid>
+      <guid>https://leilanihg.github.io/publication/liu-2016-graph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Veicl Act: Safety and Security for Modern Vehicles</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/bose-2016-veicl/</link>
+      <link>https://leilanihg.github.io/publication/bose-2016-veicl/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/bose-2016-veicl/</guid>
+      <guid>https://leilanihg.github.io/publication/bose-2016-veicl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-simulation solutions using AA4MM-FMI applied to smart space heating models</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2014-co/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2014-co/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2014-co/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2014-co/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Negative News No More: Classifying News Article Headlines</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/bergen-2012-negative/</link>
+      <link>https://leilanihg.github.io/publication/bergen-2012-negative/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/bergen-2012-negative/</guid>
+      <guid>https://leilanihg.github.io/publication/bergen-2012-negative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Impact of Topology and Communication Models on Connectivity in Networks</title>
-      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2011-impact/</link>
+      <link>https://leilanihg.github.io/publication/gilpin-2011-impact/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2011-impact/</guid>
+      <guid>https://leilanihg.github.io/publication/gilpin-2011-impact/</guid>
       <description></description>
     </item>
     
