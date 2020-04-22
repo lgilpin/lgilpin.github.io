@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leilani H. Gilpin</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://people.csail.mit.edu/lgilpin/authors/admin/</link>
+      <atom:link href="http://people.csail.mit.edu/lgilpin/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Leilani H. Gilpin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/good1.png</url>
+      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
       <title>Leilani H. Gilpin</title>
-      <link>/authors/admin/</link>
+      <link>http://people.csail.mit.edu/lgilpin/authors/admin/</link>
     </image>
     
   </channel>

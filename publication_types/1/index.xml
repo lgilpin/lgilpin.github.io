@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Leilani H. Gilpin</title>
-    <link>/publication_types/1/</link>
-      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://people.csail.mit.edu/lgilpin/publication_types/1/</link>
+      <atom:link href="http://people.csail.mit.edu/lgilpin/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/good1.png</url>
+      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
       <title>1</title>
-      <link>/publication_types/1/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication_types/1/</link>
     </image>
     
     <item>
       <title>Explaining Possible Futures for Robust Autonomous Decision-Making</title>
-      <link>/publication/gilpin-2019-aaaifall/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-aaaifall/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2019-aaaifall/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-aaaifall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning From Explanations for Robust Autonomous Driving.</title>
-      <link>/publication/gilpin-2019-learning/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2019-learning/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Adaptable Self-Monitoring Framework for Opaque Machines</title>
-      <link>/publication/gilpin-2019-adaptable/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-adaptable/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2019-adaptable/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-adaptable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining explanations: An overview of interpretability of machine learning</title>
-      <link>/publication/gilpin-2018-explaining/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2018-explaining/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception of Speaker Personality Traits Using Speech Signals</title>
-      <link>/publication/gilpin-2018-perception/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-perception/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2018-perception/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reasonable perception: Connecting vision and language systems for validating scene descriptions</title>
-      <link>/publication/gilpin-2018-reasonable/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonable/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2018-reasonable/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reasonableness Monitors</title>
-      <link>/publication/gilpin-2018-reasonableness/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonableness/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2018-reasonableness/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonableness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Up to Speed on Vehicle Intelligence</title>
-      <link>/publication/gilpin-2017-getting/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2017-getting/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2017-getting/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2017-getting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-simulation solutions using AA4MM-FMI applied to smart space heating models</title>
-      <link>/publication/gilpin-2014-co/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2014-co/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2014-co/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2014-co/</guid>
       <description></description>
     </item>
     

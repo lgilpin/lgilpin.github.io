@@ -31,7 +31,7 @@
   <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/gilpin-2019-learning/">
+  <link rel="alternate" hreflang="en-us" href="http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/">
 
   
 
@@ -199,23 +199,61 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.css">
+  <link rel="stylesheet" href="/lgilpin/css/academic.css">
 
   
 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56888193-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-56888193-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
 
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_192x192_fill_lanczos_center_2.png">
+  <link rel="manifest" href="/lgilpin/index.webmanifest">
+  <link rel="icon" type="image/png" href="/lgilpin/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/lgilpin/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/publication/gilpin-2019-learning/">
+  <link rel="canonical" href="http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/">
 
   
   
@@ -231,10 +269,10 @@
   <meta property="twitter:creator" content="@leilanigilpin">
   
   <meta property="og:site_name" content="Leilani H. Gilpin">
-  <meta property="og:url" content="/publication/gilpin-2019-learning/">
+  <meta property="og:url" content="http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/">
   <meta property="og:title" content="Learning From Explanations for Robust Autonomous Driving. | Leilani H. Gilpin">
-  <meta property="og:description" content=""><meta property="og:image" content="/img/good1.png">
-  <meta property="twitter:image" content="/img/good1.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content=""><meta property="og:image" content="http://people.csail.mit.edu/lgilpin/img/good1.png">
+  <meta property="twitter:image" content="http://people.csail.mit.edu/lgilpin/img/good1.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-02-22T12:28:41&#43;00:00">
@@ -261,7 +299,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/gilpin-2019-learning/"
+    "@id": "http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/"
   },
   "headline": "Learning From Explanations for Robust Autonomous Driving.",
   
@@ -278,7 +316,7 @@
     "name": "MIT",
     "logo": {
       "@type": "ImageObject",
-      "url": "/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_192x192_fill_lanczos_center_2.png"
+      "url": "http://people.csail.mit.edu/lgilpin/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": ""
@@ -349,7 +387,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Leilani H. Gilpin</a>
+      <a class="navbar-brand" href="/lgilpin/">Leilani H. Gilpin</a>
     </div>
     
 
@@ -362,7 +400,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Leilani H. Gilpin</a>
+      <a class="navbar-brand" href="/lgilpin/">Leilani H. Gilpin</a>
     </div>
     
 
@@ -397,7 +435,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Home</span></a>
+          <a class="nav-link " href="/lgilpin/#about"><span>Home</span></a>
         </li>
 
         
@@ -426,7 +464,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/lgilpin/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -455,7 +493,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          <a class="nav-link " href="/lgilpin/#talks"><span>Talks</span></a>
         </li>
 
         
@@ -484,7 +522,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/lgilpin/#projects"><span>Projects</span></a>
         </li>
 
         
@@ -513,7 +551,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#courses"><span>Teaching</span></a>
+          <a class="nav-link " href="/lgilpin/#courses"><span>Teaching</span></a>
         </li>
 
         
@@ -542,7 +580,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/lgilpin/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -564,7 +602,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/lgilpin/files/cv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -699,7 +737,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/gilpin-2019-learning/cite.bib">
+        data-filename="/lgilpin/publication/gilpin-2019-learning/cite.bib">
   Cite
 </button>
 
@@ -738,7 +776,7 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
+            <a href="/lgilpin/publication/#1">
               Conference paper
             </a>
             
@@ -787,7 +825,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/gilpin-2019-learning/&amp;text=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving." target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/&amp;text=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving." target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -800,7 +838,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/gilpin-2019-learning/&amp;t=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving." target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/&amp;t=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving." target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -813,7 +851,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving.&amp;body=/publication/gilpin-2019-learning/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving.&amp;body=http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -826,7 +864,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/gilpin-2019-learning/&amp;title=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving." target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/&amp;title=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving." target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -839,7 +877,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving.%20/publication/gilpin-2019-learning/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving.%20http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -852,7 +890,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/gilpin-2019-learning/&amp;title=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving." target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://people.csail.mit.edu/lgilpin/publication/gilpin-2019-learning/&amp;title=Learning%20From%20Explanations%20for%20Robust%20Autonomous%20Driving." target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -963,7 +1001,7 @@
     
     
     
-    <script src="/js/academic.min.c97b94000ee75a76d9bc08f5a2e44814.js"></script>
+    <script src="/lgilpin/js/academic.min.c97b94000ee75a76d9bc08f5a2e44814.js"></script>
 
     
 

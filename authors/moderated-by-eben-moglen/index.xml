@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>moderated by Eben Moglen | Leilani H. Gilpin</title>
-    <link>/authors/moderated-by-eben-moglen/</link>
-      <atom:link href="/authors/moderated-by-eben-moglen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://people.csail.mit.edu/lgilpin/authors/moderated-by-eben-moglen/</link>
+      <atom:link href="http://people.csail.mit.edu/lgilpin/authors/moderated-by-eben-moglen/index.xml" rel="self" type="application/rss+xml" />
     <description>moderated by Eben Moglen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/good1.png</url>
+      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
       <title>moderated by Eben Moglen</title>
-      <link>/authors/moderated-by-eben-moglen/</link>
+      <link>http://people.csail.mit.edu/lgilpin/authors/moderated-by-eben-moglen/</link>
     </image>
     
     <item>
       <title>Automotive FOSS Panel</title>
-      <link>/talk/sflc-panel/</link>
+      <link>http://people.csail.mit.edu/lgilpin/talk/sflc-panel/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/sflc-panel/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/talk/sflc-panel/</guid>
       <description></description>
     </item>
     

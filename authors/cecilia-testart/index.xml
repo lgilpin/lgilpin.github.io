@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cecilia Testart | Leilani H. Gilpin</title>
-    <link>/authors/cecilia-testart/</link>
-      <atom:link href="/authors/cecilia-testart/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://people.csail.mit.edu/lgilpin/authors/cecilia-testart/</link>
+      <atom:link href="http://people.csail.mit.edu/lgilpin/authors/cecilia-testart/index.xml" rel="self" type="application/rss+xml" />
     <description>Cecilia Testart</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/good1.png</url>
+      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
       <title>Cecilia Testart</title>
-      <link>/authors/cecilia-testart/</link>
+      <link>http://people.csail.mit.edu/lgilpin/authors/cecilia-testart/</link>
     </image>
     
     <item>
       <title>Explaining Explanations to Society</title>
-      <link>/publication/gilpin-2018-explaining-2/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining-2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2018-explaining-2/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-explaining-2/</guid>
       <description></description>
     </item>
     

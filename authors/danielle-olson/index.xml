@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Danielle Olson | Leilani H. Gilpin</title>
-    <link>/authors/danielle-olson/</link>
-      <atom:link href="/authors/danielle-olson/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://people.csail.mit.edu/lgilpin/authors/danielle-olson/</link>
+      <atom:link href="http://people.csail.mit.edu/lgilpin/authors/danielle-olson/index.xml" rel="self" type="application/rss+xml" />
     <description>Danielle Olson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/good1.png</url>
+      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
       <title>Danielle Olson</title>
-      <link>/authors/danielle-olson/</link>
+      <link>http://people.csail.mit.edu/lgilpin/authors/danielle-olson/</link>
     </image>
     
     <item>
       <title>Reasonable perception: Connecting vision and language systems for validating scene descriptions</title>
-      <link>/publication/gilpin-2018-reasonable/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonable/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2018-reasonable/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2018-reasonable/</guid>
       <description></description>
     </item>
     

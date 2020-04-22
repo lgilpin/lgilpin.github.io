@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ioana Baldini | Leilani H. Gilpin</title>
-    <link>/authors/ioana-baldini/</link>
-      <atom:link href="/authors/ioana-baldini/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://people.csail.mit.edu/lgilpin/authors/ioana-baldini/</link>
+      <atom:link href="http://people.csail.mit.edu/lgilpin/authors/ioana-baldini/index.xml" rel="self" type="application/rss+xml" />
     <description>Ioana Baldini</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/good1.png</url>
+      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
       <title>Ioana Baldini</title>
-      <link>/authors/ioana-baldini/</link>
+      <link>http://people.csail.mit.edu/lgilpin/authors/ioana-baldini/</link>
     </image>
     
     <item>
       <title>Reports of the AAAI 2019 Spring Symposium Series</title>
-      <link>/publication/baldini-2019-reports/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/baldini-2019-reports/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/baldini-2019-reports/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/baldini-2019-reports/</guid>
       <description></description>
     </item>
     

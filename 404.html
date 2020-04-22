@@ -31,7 +31,7 @@
   <meta name="description" content="PhD Candidate">
 
   
-  <link rel="alternate" hreflang="en-us" href="/404.html">
+  <link rel="alternate" hreflang="en-us" href="http://people.csail.mit.edu/lgilpin/404.html">
 
   
 
@@ -199,23 +199,61 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.css">
+  <link rel="stylesheet" href="/lgilpin/css/academic.css">
 
   
 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56888193-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-56888193-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
 
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_192x192_fill_lanczos_center_2.png">
+  <link rel="manifest" href="/lgilpin/index.webmanifest">
+  <link rel="icon" type="image/png" href="/lgilpin/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/lgilpin/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/404.html">
+  <link rel="canonical" href="http://people.csail.mit.edu/lgilpin/404.html">
 
   
   
@@ -231,10 +269,10 @@
   <meta property="twitter:creator" content="@leilanigilpin">
   
   <meta property="og:site_name" content="Leilani H. Gilpin">
-  <meta property="og:url" content="/404.html">
+  <meta property="og:url" content="http://people.csail.mit.edu/lgilpin/404.html">
   <meta property="og:title" content="404 Page not found | Leilani H. Gilpin">
-  <meta property="og:description" content="PhD Candidate"><meta property="og:image" content="/img/good1.png">
-  <meta property="twitter:image" content="/img/good1.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="PhD Candidate"><meta property="og:image" content="http://people.csail.mit.edu/lgilpin/img/good1.png">
+  <meta property="twitter:image" content="http://people.csail.mit.edu/lgilpin/img/good1.png"><meta property="og:locale" content="en-us">
   
     
   
@@ -303,7 +341,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Leilani H. Gilpin</a>
+      <a class="navbar-brand" href="/lgilpin/">Leilani H. Gilpin</a>
     </div>
     
 
@@ -316,7 +354,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Leilani H. Gilpin</a>
+      <a class="navbar-brand" href="/lgilpin/">Leilani H. Gilpin</a>
     </div>
     
 
@@ -351,7 +389,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Home</span></a>
+          <a class="nav-link " href="/lgilpin/#about"><span>Home</span></a>
         </li>
 
         
@@ -380,7 +418,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/lgilpin/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -409,7 +447,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          <a class="nav-link " href="/lgilpin/#talks"><span>Talks</span></a>
         </li>
 
         
@@ -438,7 +476,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/lgilpin/#projects"><span>Projects</span></a>
         </li>
 
         
@@ -467,7 +505,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#courses"><span>Teaching</span></a>
+          <a class="nav-link " href="/lgilpin/#courses"><span>Teaching</span></a>
         </li>
 
         
@@ -496,7 +534,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/lgilpin/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -518,7 +556,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/lgilpin/files/cv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -560,25 +598,25 @@
   <h2>Latest</h2>
   <ul>
     
-      <li><a href="/courses/example/example1/">Example Page 1</a></li>
+      <li><a href="/lgilpin/courses/example/example1/">Example Page 1</a></li>
     
-      <li><a href="/courses/example/example2/">Example Page 2</a></li>
+      <li><a href="/lgilpin/courses/example/example2/">Example Page 2</a></li>
     
-      <li><a href="/talk/wids-2020/">Explanation-based Anomaly Detection</a></li>
+      <li><a href="/lgilpin/talk/wids-2020/">Explanation-based Anomaly Detection</a></li>
     
-      <li><a href="/talk/csail-student-profile/">CSAIL Student Profile</a></li>
+      <li><a href="/lgilpin/talk/csail-student-profile/">CSAIL Student Profile</a></li>
     
-      <li><a href="/publication/gilpin-2019-aaaifall/">Explaining Possible Futures for Robust Autonomous Decision-Making</a></li>
+      <li><a href="/lgilpin/publication/gilpin-2019-aaaifall/">Explaining Possible Futures for Robust Autonomous Decision-Making</a></li>
     
-      <li><a href="/talk/ucsd-datascience-2019/">Using Explanations for Robust Autonomous Decision Making</a></li>
+      <li><a href="/lgilpin/talk/ucsd-datascience-2019/">Using Explanations for Robust Autonomous Decision Making</a></li>
     
-      <li><a href="/publication/gilpin-2019-learning/">Learning From Explanations for Robust Autonomous Driving.</a></li>
+      <li><a href="/lgilpin/publication/gilpin-2019-learning/">Learning From Explanations for Robust Autonomous Driving.</a></li>
     
-      <li><a href="/publication/gilpin-2019-adaptable/">An Adaptable Self-Monitoring Framework for Opaque Machines</a></li>
+      <li><a href="/lgilpin/publication/gilpin-2019-adaptable/">An Adaptable Self-Monitoring Framework for Opaque Machines</a></li>
     
-      <li><a href="/publication/gilpin-2019-monitoring/">Monitoring Opaque Learning Systems</a></li>
+      <li><a href="/lgilpin/publication/gilpin-2019-monitoring/">Monitoring Opaque Learning Systems</a></li>
     
-      <li><a href="/project/ai-ethics/">AI and ethics</a></li>
+      <li><a href="/lgilpin/project/ai-ethics/">AI and ethics</a></li>
     
   </ul>
   
@@ -650,7 +688,7 @@
     
     
     
-    <script src="/js/academic.min.c97b94000ee75a76d9bc08f5a2e44814.js"></script>
+    <script src="/lgilpin/js/academic.min.c97b94000ee75a76d9bc08f5a2e44814.js"></script>
 
     
 

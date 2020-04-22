@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laurent Ciarletta | Leilani H. Gilpin</title>
-    <link>/authors/laurent-ciarletta/</link>
-      <atom:link href="/authors/laurent-ciarletta/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://people.csail.mit.edu/lgilpin/authors/laurent-ciarletta/</link>
+      <atom:link href="http://people.csail.mit.edu/lgilpin/authors/laurent-ciarletta/index.xml" rel="self" type="application/rss+xml" />
     <description>Laurent Ciarletta</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/good1.png</url>
+      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
       <title>Laurent Ciarletta</title>
-      <link>/authors/laurent-ciarletta/</link>
+      <link>http://people.csail.mit.edu/lgilpin/authors/laurent-ciarletta/</link>
     </image>
     
     <item>
       <title>Co-simulation solutions using AA4MM-FMI applied to smart space heating models</title>
-      <link>/publication/gilpin-2014-co/</link>
+      <link>http://people.csail.mit.edu/lgilpin/publication/gilpin-2014-co/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/gilpin-2014-co/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/publication/gilpin-2014-co/</guid>
       <description></description>
     </item>
     

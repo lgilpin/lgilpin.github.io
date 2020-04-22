@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Leilani H. Gilpin</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://people.csail.mit.edu/lgilpin/tags/</link>
+      <atom:link href="http://people.csail.mit.edu/lgilpin/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/good1.png</url>
+      <url>http://people.csail.mit.edu/lgilpin/img/good1.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>http://people.csail.mit.edu/lgilpin/tags/</link>
     </image>
     
     <item>
       <title>autonomous driving</title>
-      <link>/tags/autonomous-driving/</link>
+      <link>http://people.csail.mit.edu/lgilpin/tags/autonomous-driving/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/autonomous-driving/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/tags/autonomous-driving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>explanations</title>
-      <link>/tags/explanations/</link>
+      <link>http://people.csail.mit.edu/lgilpin/tags/explanations/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/explanations/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/tags/explanations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ai-magazine</title>
-      <link>/tags/ai-magazine/</link>
+      <link>http://people.csail.mit.edu/lgilpin/tags/ai-magazine/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/ai-magazine/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/tags/ai-magazine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>story-enabled-intelligence</title>
-      <link>/tags/story-enabled-intelligence/</link>
+      <link>http://people.csail.mit.edu/lgilpin/tags/story-enabled-intelligence/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/story-enabled-intelligence/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/tags/story-enabled-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>survey</title>
-      <link>/tags/survey/</link>
+      <link>http://people.csail.mit.edu/lgilpin/tags/survey/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/survey/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/tags/survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>panel</title>
-      <link>/tags/panel/</link>
+      <link>http://people.csail.mit.edu/lgilpin/tags/panel/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/panel/</guid>
+      <guid>http://people.csail.mit.edu/lgilpin/tags/panel/</guid>
       <description></description>
     </item>
     

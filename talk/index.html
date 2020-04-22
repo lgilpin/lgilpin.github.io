@@ -31,7 +31,7 @@
   <meta name="description" content="PhD Candidate">
 
   
-  <link rel="alternate" hreflang="en-us" href="/talk/">
+  <link rel="alternate" hreflang="en-us" href="http://people.csail.mit.edu/lgilpin/talk/">
 
   
 
@@ -199,25 +199,63 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.css">
+  <link rel="stylesheet" href="/lgilpin/css/academic.css">
 
   
 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56888193-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-56888193-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
-  <link rel="alternate" href="/talk/index.xml" type="application/rss+xml" title="Leilani H. Gilpin">
+  <link rel="alternate" href="/lgilpin/talk/index.xml" type="application/rss+xml" title="Leilani H. Gilpin">
   
 
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_192x192_fill_lanczos_center_2.png">
+  <link rel="manifest" href="/lgilpin/index.webmanifest">
+  <link rel="icon" type="image/png" href="/lgilpin/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/lgilpin/images/icon_hua17e3ce957f03ab63595b27ca1f43b67_10820_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/talk/">
+  <link rel="canonical" href="http://people.csail.mit.edu/lgilpin/talk/">
 
   
   
@@ -233,10 +271,10 @@
   <meta property="twitter:creator" content="@leilanigilpin">
   
   <meta property="og:site_name" content="Leilani H. Gilpin">
-  <meta property="og:url" content="/talk/">
+  <meta property="og:url" content="http://people.csail.mit.edu/lgilpin/talk/">
   <meta property="og:title" content="Recent &amp; Upcoming Talks | Leilani H. Gilpin">
-  <meta property="og:description" content="PhD Candidate"><meta property="og:image" content="/img/good1.png">
-  <meta property="twitter:image" content="/img/good1.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="PhD Candidate"><meta property="og:image" content="http://people.csail.mit.edu/lgilpin/img/good1.png">
+  <meta property="twitter:image" content="http://people.csail.mit.edu/lgilpin/img/good1.png"><meta property="og:locale" content="en-us">
   
     
   
@@ -305,7 +343,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Leilani H. Gilpin</a>
+      <a class="navbar-brand" href="/lgilpin/">Leilani H. Gilpin</a>
     </div>
     
 
@@ -318,7 +356,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Leilani H. Gilpin</a>
+      <a class="navbar-brand" href="/lgilpin/">Leilani H. Gilpin</a>
     </div>
     
 
@@ -353,7 +391,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Home</span></a>
+          <a class="nav-link " href="/lgilpin/#about"><span>Home</span></a>
         </li>
 
         
@@ -382,7 +420,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/lgilpin/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -411,7 +449,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          <a class="nav-link " href="/lgilpin/#talks"><span>Talks</span></a>
         </li>
 
         
@@ -440,7 +478,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/lgilpin/#projects"><span>Projects</span></a>
         </li>
 
         
@@ -469,7 +507,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#courses"><span>Teaching</span></a>
+          <a class="nav-link " href="/lgilpin/#courses"><span>Teaching</span></a>
         </li>
 
         
@@ -498,7 +536,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/lgilpin/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -520,7 +558,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/lgilpin/files/cv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -611,7 +649,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/talk/wids-2020/" >Explanation-based Anomaly Detection</a>
+      <a href="/lgilpin/talk/wids-2020/" >Explanation-based Anomaly Detection</a>
     </h3>
 
     
@@ -682,8 +720,8 @@
     
     
     
-    <a href="/talk/wids-2020/" >
-      <img src="/talk/wids-2020/featured_hue26609828911155bca9786b88642c139_1344297_150x0_resize_lanczos_2.png" alt="">
+    <a href="/lgilpin/talk/wids-2020/" >
+      <img src="/lgilpin/talk/wids-2020/featured_hue26609828911155bca9786b88642c139_1344297_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -713,7 +751,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/talk/csail-student-profile/" >CSAIL Student Profile</a>
+      <a href="/lgilpin/talk/csail-student-profile/" >CSAIL Student Profile</a>
     </h3>
 
     
@@ -831,7 +869,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/talk/ucsd-datascience-2019/" >Using Explanations for Robust Autonomous Decision Making</a>
+      <a href="/lgilpin/talk/ucsd-datascience-2019/" >Using Explanations for Robust Autonomous Decision Making</a>
     </h3>
 
     
@@ -886,7 +924,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/talks/UCSD_talk.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/lgilpin/files/talks/UCSD_talk.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -941,7 +979,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/talk/sflc-panel/" >Automotive FOSS Panel</a>
+      <a href="/lgilpin/talk/sflc-panel/" >Automotive FOSS Panel</a>
     </h3>
 
     
@@ -1052,7 +1090,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/talk/sflc-2018/" >Self-Explanation and Self-Driving</a>
+      <a href="/lgilpin/talk/sflc-2018/" >Self-Explanation and Self-Driving</a>
     </h3>
 
     
@@ -1216,7 +1254,7 @@
     
     
     
-    <script src="/js/academic.min.c97b94000ee75a76d9bc08f5a2e44814.js"></script>
+    <script src="/lgilpin/js/academic.min.c97b94000ee75a76d9bc08f5a2e44814.js"></script>
 
     
 
