@@ -5,12 +5,36 @@
     <link>https://leilanihg.github.io/authors/leilani-h.-gilpin/</link>
       <atom:link href="https://leilanihg.github.io/authors/leilani-h.-gilpin/index.xml" rel="self" type="application/rss+xml" />
     <description>Leilani H. Gilpin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://leilanihg.github.io/img/good1.png</url>
       <title>Leilani H. Gilpin</title>
       <link>https://leilanihg.github.io/authors/leilani-h.-gilpin/</link>
     </image>
+    
+    <item>
+      <title>Identifying Multimodal Errors Through Explanations</title>
+      <link>https://leilanihg.github.io/talk/neurips-phd/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://leilanihg.github.io/talk/neurips-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection Through Explanations</title>
+      <link>https://leilanihg.github.io/publication/dissertation/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://leilanihg.github.io/publication/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection Through Explanations</title>
+      <link>https://leilanihg.github.io/talk/defense/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://leilanihg.github.io/talk/defense/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explaining Explanations</title>
