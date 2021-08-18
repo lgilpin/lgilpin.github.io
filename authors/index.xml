@@ -401,12 +401,14 @@
       <link>https://leilanihg.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leilanihg.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a research scientist at Sony AI working on explainability in AI
-agents.  I recently graduated with my PhD in Electrical Engineering
-and Computer Science at MIT in CSAIL, where I continue as a
-collaborating researcher.  My research focuses on the theories and
-methodologies towards monitoring, designing, and augmenting machines
-that can &lt;strong&gt;explain&lt;/strong&gt; themselves for diagnosis, accountability, and
+      <description>&lt;p&gt;I am an incoming Assistant Professor in Computer Science and
+Engineering at UC Santa Cruz starting October 2021.  Previously, I was
+a research scientist at Sony AI working on explainability in AI
+agents.  I graduated with my PhD in Electrical Engineering and
+Computer Science at MIT in CSAIL, where I continue as a collaborating
+researcher.  My research focuses on the theories and methodologies
+towards monitoring, designing, and augmenting machines that can
+&lt;strong&gt;explain&lt;/strong&gt; themselves for diagnosis, accountability, and
 liability. My long-term research vision is for self-explaining,
 intelligent, machines by design.  During my PhD, I developed &amp;ldquo;Anomaly
 Detection through Explanations&amp;rdquo; or ADE, a self-explaining, full system
