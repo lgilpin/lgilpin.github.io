@@ -406,16 +406,18 @@ Engineering at UC Santa Cruz starting October 2021.  Previously, I was
 a research scientist at Sony AI working on explainability in AI
 agents.  I graduated with my PhD in Electrical Engineering and
 Computer Science at MIT in CSAIL, where I continue as a collaborating
-researcher.  My research focuses on the theories and methodologies
-towards monitoring, designing, and augmenting machines that can
+researcher.  During my PhD, I developed &amp;ldquo;Anomaly Detection through
+Explanations&amp;rdquo; or ADE, a self-explaining, full system monitoring
+architecture to detect and explain inconsistencies in autonomous
+vehicles.  This allows machines and other complex mechanisms to be
+able to interpret their actions and learn from their mistakes.&lt;/p&gt;
+&lt;p&gt;My research focuses on the theories and methodologies towards
+monitoring, designing, and augmenting complex machines that can
 &lt;strong&gt;explain&lt;/strong&gt; themselves for diagnosis, accountability, and
 liability. My long-term research vision is for self-explaining,
-intelligent, machines by design.  During my PhD, I developed &amp;ldquo;Anomaly
-Detection through Explanations&amp;rdquo; or ADE, a self-explaining, full system
-monitoring architecture to detect and explain inconsistencies in
-autonomous vehicles.  This allows machines and other complex
-mechanisms to be able to interpret their actions and learn from their
-mistakes.&lt;/p&gt;
+intelligent, machines by design.&lt;/p&gt;
+&lt;p&gt;I am currently looking for motivated PhD students; please reach out to
+me on Twitter or by email if the above description interests you!&lt;/p&gt;
 </description>
     </item>
     
