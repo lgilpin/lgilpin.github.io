@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | Leilani H. Gilpin</title>
-    <link>https://leilanihg.github.io/publication_types/7/</link>
-      <atom:link href="https://leilanihg.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lgilpin.github.io/publication_types/7/</link>
+      <atom:link href="https://lgilpin.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://leilanihg.github.io/img/good1.png</url>
+      <url>https://lgilpin.github.io/img/good1.png</url>
       <title>7</title>
-      <link>https://leilanihg.github.io/publication_types/7/</link>
+      <link>https://lgilpin.github.io/publication_types/7/</link>
     </image>
     
     <item>
       <title>Anomaly Detection Through Explanations</title>
-      <link>https://leilanihg.github.io/publication/dissertation/</link>
+      <link>https://lgilpin.github.io/publication/dissertation/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/dissertation/</guid>
+      <guid>https://lgilpin.github.io/publication/dissertation/</guid>
       <description></description>
     </item>
     

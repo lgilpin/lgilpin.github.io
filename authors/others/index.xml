@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> others | Leilani H. Gilpin</title>
-    <link>https://leilanihg.github.io/authors/others/</link>
-      <atom:link href="https://leilanihg.github.io/authors/others/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lgilpin.github.io/authors/others/</link>
+      <atom:link href="https://lgilpin.github.io/authors/others/index.xml" rel="self" type="application/rss+xml" />
     <description> others</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://leilanihg.github.io/img/good1.png</url>
+      <url>https://lgilpin.github.io/img/good1.png</url>
       <title> others</title>
-      <link>https://leilanihg.github.io/authors/others/</link>
+      <link>https://lgilpin.github.io/authors/others/</link>
     </image>
     
     <item>
       <title>Reports of the AAAI 2019 Spring Symposium Series</title>
-      <link>https://leilanihg.github.io/publication/baldini-2019-reports/</link>
+      <link>https://lgilpin.github.io/publication/baldini-2019-reports/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/baldini-2019-reports/</guid>
+      <guid>https://lgilpin.github.io/publication/baldini-2019-reports/</guid>
       <description></description>
     </item>
     

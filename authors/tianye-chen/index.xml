@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tianye Chen | Leilani H. Gilpin</title>
-    <link>https://leilanihg.github.io/authors/tianye-chen/</link>
-      <atom:link href="https://leilanihg.github.io/authors/tianye-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lgilpin.github.io/authors/tianye-chen/</link>
+      <atom:link href="https://lgilpin.github.io/authors/tianye-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Tianye Chen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://leilanihg.github.io/img/good1.png</url>
+      <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Tianye Chen</title>
-      <link>https://leilanihg.github.io/authors/tianye-chen/</link>
+      <link>https://lgilpin.github.io/authors/tianye-chen/</link>
     </image>
     
     <item>
       <title>Learning From Explanations for Robust Autonomous Driving.</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2019-learning/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2019-learning/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2019-learning/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2019-learning/</guid>
       <description></description>
     </item>
     

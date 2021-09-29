@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomonori Honda | Leilani H. Gilpin</title>
-    <link>https://leilanihg.github.io/authors/tomonori-honda/</link>
-      <atom:link href="https://leilanihg.github.io/authors/tomonori-honda/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lgilpin.github.io/authors/tomonori-honda/</link>
+      <atom:link href="https://lgilpin.github.io/authors/tomonori-honda/index.xml" rel="self" type="application/rss+xml" />
     <description>Tomonori Honda</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://leilanihg.github.io/img/good1.png</url>
+      <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Tomonori Honda</title>
-      <link>https://leilanihg.github.io/authors/tomonori-honda/</link>
+      <link>https://lgilpin.github.io/authors/tomonori-honda/</link>
     </image>
     
     <item>
       <title>Graph analysis for detecting fraud, waste, and abuse in healthcare data</title>
-      <link>https://leilanihg.github.io/publication/liu-2016-graph/</link>
+      <link>https://lgilpin.github.io/publication/liu-2016-graph/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/liu-2016-graph/</guid>
+      <guid>https://lgilpin.github.io/publication/liu-2016-graph/</guid>
       <description></description>
     </item>
     

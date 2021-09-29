@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leilani H. Gilpin</title>
-    <link>https://leilanihg.github.io/authors/leilani-h.-gilpin/</link>
-      <atom:link href="https://leilanihg.github.io/authors/leilani-h.-gilpin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lgilpin.github.io/authors/leilani-h.-gilpin/</link>
+      <atom:link href="https://lgilpin.github.io/authors/leilani-h.-gilpin/index.xml" rel="self" type="application/rss+xml" />
     <description>Leilani H. Gilpin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://leilanihg.github.io/img/good1.png</url>
+      <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Leilani H. Gilpin</title>
-      <link>https://leilanihg.github.io/authors/leilani-h.-gilpin/</link>
+      <link>https://lgilpin.github.io/authors/leilani-h.-gilpin/</link>
     </image>
     
     <item>
       <title>Identifying Multimodal Errors Through Explanations</title>
-      <link>https://leilanihg.github.io/talk/neurips-phd/</link>
+      <link>https://lgilpin.github.io/talk/neurips-phd/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/talk/neurips-phd/</guid>
+      <guid>https://lgilpin.github.io/talk/neurips-phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anomaly Detection Through Explanations</title>
-      <link>https://leilanihg.github.io/publication/dissertation/</link>
+      <link>https://lgilpin.github.io/publication/dissertation/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/dissertation/</guid>
+      <guid>https://lgilpin.github.io/publication/dissertation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anomaly Detection Through Explanations</title>
-      <link>https://leilanihg.github.io/talk/defense/</link>
+      <link>https://lgilpin.github.io/talk/defense/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/talk/defense/</guid>
+      <guid>https://lgilpin.github.io/talk/defense/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Explanations</title>
-      <link>https://leilanihg.github.io/talk/cs520-xai/</link>
+      <link>https://lgilpin.github.io/talk/cs520-xai/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/talk/cs520-xai/</guid>
+      <guid>https://lgilpin.github.io/talk/cs520-xai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explanation-based Anomaly Detection</title>
-      <link>https://leilanihg.github.io/talk/wids-2020/</link>
+      <link>https://lgilpin.github.io/talk/wids-2020/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/talk/wids-2020/</guid>
+      <guid>https://lgilpin.github.io/talk/wids-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSAIL Student Profile</title>
-      <link>https://leilanihg.github.io/talk/csail-student-profile/</link>
+      <link>https://lgilpin.github.io/talk/csail-student-profile/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/talk/csail-student-profile/</guid>
+      <guid>https://lgilpin.github.io/talk/csail-student-profile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Possible Futures for Robust Autonomous Decision-Making</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2019-aaaifall/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2019-aaaifall/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2019-aaaifall/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2019-aaaifall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning From Explanations for Robust Autonomous Driving.</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2019-learning/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2019-learning/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2019-learning/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2019-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Adaptable Self-Monitoring Framework for Opaque Machines</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2019-adaptable/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2019-adaptable/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2019-adaptable/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2019-adaptable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring Opaque Learning Systems</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2019-monitoring/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2019-monitoring/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2019-monitoring/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2019-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automotive FOSS Panel</title>
-      <link>https://leilanihg.github.io/talk/sflc-panel/</link>
+      <link>https://lgilpin.github.io/talk/sflc-panel/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/talk/sflc-panel/</guid>
+      <guid>https://lgilpin.github.io/talk/sflc-panel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Explanation and Self-Driving</title>
-      <link>https://leilanihg.github.io/talk/sflc-2018/</link>
+      <link>https://lgilpin.github.io/talk/sflc-2018/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/talk/sflc-2018/</guid>
+      <guid>https://lgilpin.github.io/talk/sflc-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Explanations to Society</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2018-explaining-2/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2018-explaining-2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2018-explaining-2/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2018-explaining-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining explanations: An overview of interpretability of machine learning</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2018-explaining/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2018-explaining/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2018-explaining/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2018-explaining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring Scene Understanders with Conceptual Primitive Decomposition and Commonsense Knowledge</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2018-monitoring/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2018-monitoring/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2018-monitoring/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2018-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception of Speaker Personality Traits Using Speech Signals</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2018-perception/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2018-perception/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2018-perception/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2018-perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reasonable perception: Connecting vision and language systems for validating scene descriptions</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2018-reasonable/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2018-reasonable/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2018-reasonable/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2018-reasonable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reasonableness Monitors</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2018-reasonableness/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2018-reasonableness/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2018-reasonableness/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2018-reasonableness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Up to Speed on Vehicle Intelligence</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2017-getting/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2017-getting/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2017-getting/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2017-getting/</guid>
       <description></description>
     </item>
     

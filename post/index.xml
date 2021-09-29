@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Leilani H. Gilpin</title>
-    <link>https://leilanihg.github.io/post/</link>
-      <atom:link href="https://leilanihg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lgilpin.github.io/post/</link>
+      <atom:link href="https://lgilpin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://leilanihg.github.io/img/good1.png</url>
+      <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Posts</title>
-      <link>https://leilanihg.github.io/post/</link>
+      <link>https://lgilpin.github.io/post/</link>
     </image>
     
   </channel>

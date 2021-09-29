@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yannick Presse | Leilani H. Gilpin</title>
-    <link>https://leilanihg.github.io/authors/yannick-presse/</link>
-      <atom:link href="https://leilanihg.github.io/authors/yannick-presse/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lgilpin.github.io/authors/yannick-presse/</link>
+      <atom:link href="https://lgilpin.github.io/authors/yannick-presse/index.xml" rel="self" type="application/rss+xml" />
     <description>Yannick Presse</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://leilanihg.github.io/img/good1.png</url>
+      <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Yannick Presse</title>
-      <link>https://leilanihg.github.io/authors/yannick-presse/</link>
+      <link>https://lgilpin.github.io/authors/yannick-presse/</link>
     </image>
     
     <item>
       <title>Co-simulation solutions using AA4MM-FMI applied to smart space heating models</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2014-co/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2014-co/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2014-co/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2014-co/</guid>
       <description></description>
     </item>
     

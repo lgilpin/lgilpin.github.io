@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>explanations | Leilani H. Gilpin</title>
-    <link>https://leilanihg.github.io/tags/explanations/</link>
-      <atom:link href="https://leilanihg.github.io/tags/explanations/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lgilpin.github.io/tags/explanations/</link>
+      <atom:link href="https://lgilpin.github.io/tags/explanations/index.xml" rel="self" type="application/rss+xml" />
     <description>explanations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://leilanihg.github.io/img/good1.png</url>
+      <url>https://lgilpin.github.io/img/good1.png</url>
       <title>explanations</title>
-      <link>https://leilanihg.github.io/tags/explanations/</link>
+      <link>https://lgilpin.github.io/tags/explanations/</link>
     </image>
     
     <item>
       <title>Explaining Possible Futures for Robust Autonomous Decision-Making</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2019-aaaifall/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2019-aaaifall/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2019-aaaifall/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2019-aaaifall/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Leilani H. Gilpin</title>
-    <link>https://leilanihg.github.io/publication_types/2/</link>
-      <atom:link href="https://leilanihg.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lgilpin.github.io/publication_types/2/</link>
+      <atom:link href="https://lgilpin.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://leilanihg.github.io/img/good1.png</url>
+      <url>https://lgilpin.github.io/img/good1.png</url>
       <title>2</title>
-      <link>https://leilanihg.github.io/publication_types/2/</link>
+      <link>https://lgilpin.github.io/publication_types/2/</link>
     </image>
     
     <item>
       <title>Monitoring Opaque Learning Systems</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2019-monitoring/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2019-monitoring/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2019-monitoring/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2019-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Explanations to Society</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2018-explaining-2/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2018-explaining-2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2018-explaining-2/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2018-explaining-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring Scene Understanders with Conceptual Primitive Decomposition and Commonsense Knowledge</title>
-      <link>https://leilanihg.github.io/publication/gilpin-2018-monitoring/</link>
+      <link>https://lgilpin.github.io/publication/gilpin-2018-monitoring/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/gilpin-2018-monitoring/</guid>
+      <guid>https://lgilpin.github.io/publication/gilpin-2018-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph analysis for detecting fraud, waste, and abuse in healthcare data</title>
-      <link>https://leilanihg.github.io/publication/liu-2016-graph/</link>
+      <link>https://lgilpin.github.io/publication/liu-2016-graph/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/liu-2016-graph/</guid>
+      <guid>https://lgilpin.github.io/publication/liu-2016-graph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Veicl Act: Safety and Security for Modern Vehicles</title>
-      <link>https://leilanihg.github.io/publication/bose-2016-veicl/</link>
+      <link>https://lgilpin.github.io/publication/bose-2016-veicl/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://leilanihg.github.io/publication/bose-2016-veicl/</guid>
+      <guid>https://lgilpin.github.io/publication/bose-2016-veicl/</guid>
       <description></description>
     </item>
     
