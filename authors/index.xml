@@ -5,7 +5,7 @@
     <link>https://lgilpin.github.io/authors/</link>
       <atom:link href="https://lgilpin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Leilani H. Gilpin</title>
       <link>https://lgilpin.github.io/authors/leilani-h.-gilpin/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://lgilpin.github.io/authors/leilani-h.-gilpin/</guid>
       <description></description>
     </item>
@@ -23,8 +23,48 @@
     <item>
       <title>Lalana Kagal</title>
       <link>https://lgilpin.github.io/authors/lalana-kagal/</link>
-      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://lgilpin.github.io/authors/lalana-kagal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vishnu Penubarthi</title>
+      <link>https://lgilpin.github.io/authors/vishnu-penubarthi/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/authors/vishnu-penubarthi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregory Falco</title>
+      <link>https://lgilpin.github.io/authors/gregory-falco/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/authors/gregory-falco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leilani H Gilpin</title>
+      <link>https://lgilpin.github.io/authors/leilani-h-gilpin/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/authors/leilani-h-gilpin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irina Rabkina</title>
+      <link>https://lgilpin.github.io/authors/irina-rabkina/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/authors/irina-rabkina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason R Wilson</title>
+      <link>https://lgilpin.github.io/authors/jason-r-wilson/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/authors/jason-r-wilson/</guid>
       <description></description>
     </item>
     
@@ -416,8 +456,10 @@ monitoring, designing, and augmenting complex machines that can
 &lt;strong&gt;explain&lt;/strong&gt; themselves for diagnosis, accountability, and
 liability. My long-term research vision is for self-explaining,
 intelligent, machines by design.&lt;/p&gt;
-&lt;p&gt;I am currently looking for motivated PhD students; please reach out to
-me on Twitter or by email if the above description interests you!&lt;/p&gt;
+&lt;p&gt;I am currently looking for motivated PhD students; please see 
+&lt;a href=&#34;talk/recruiting/&#34;&gt;this post&lt;/a&gt; and
+reach out to me on Twitter or by email if the above description
+interests you!&lt;/p&gt;
 </description>
     </item>
     

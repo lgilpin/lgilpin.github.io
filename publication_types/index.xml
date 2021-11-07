@@ -5,7 +5,7 @@
     <link>https://lgilpin.github.io/publication_types/</link>
       <atom:link href="https://lgilpin.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Publication_types</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>7</title>
-      <link>https://lgilpin.github.io/publication_types/7/</link>
-      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://lgilpin.github.io/publication_types/7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>1</title>
       <link>https://lgilpin.github.io/publication_types/1/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://lgilpin.github.io/publication_types/1/</guid>
       <description></description>
     </item>
@@ -31,8 +23,16 @@
     <item>
       <title>2</title>
       <link>https://lgilpin.github.io/publication_types/2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://lgilpin.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>https://lgilpin.github.io/publication_types/7/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication_types/7/</guid>
       <description></description>
     </item>
     

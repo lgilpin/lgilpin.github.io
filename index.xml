@@ -5,7 +5,7 @@
     <link>https://lgilpin.github.io/</link>
       <atom:link href="https://lgilpin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Leilani H. Gilpin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Leilani H. Gilpin</title>
@@ -55,10 +55,58 @@
     </item>
     
     <item>
+      <title>Perception Challenge for Autonomous Vehicles</title>
+      <link>https://lgilpin.github.io/talk/cogsat-2021/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/talk/cogsat-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Multimodal Errors in Autonomous Vehicles</title>
+      <link>https://lgilpin.github.io/publication/gilpin-2021-multimodal/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/gilpin-2021-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I&#39;m Recruiting PhD Students</title>
+      <link>https://lgilpin.github.io/talk/recruiting/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/talk/recruiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A stress testing framework for autonomous system verification and validation (v&amp;v)</title>
+      <link>https://lgilpin.github.io/publication/falco-2021-stress/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/falco-2021-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anticipatory Thinking: A Testing and Representation Challenge for Self-Driving Cars</title>
+      <link>https://lgilpin.github.io/publication/gilpin-2021-anticipatory/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/gilpin-2021-anticipatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Identifying Multimodal Errors Through Explanations</title>
       <link>https://lgilpin.github.io/talk/neurips-phd/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://lgilpin.github.io/talk/neurips-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Knowledge Driven Approach to Adaptive Assistance Using Preference Reasoning and Explanation</title>
+      <link>https://lgilpin.github.io/publication/wilson-2020-knowledge/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/wilson-2020-knowledge/</guid>
       <description></description>
     </item>
     

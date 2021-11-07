@@ -5,12 +5,20 @@
     <link>https://lgilpin.github.io/authors/lalana-kagal/</link>
       <atom:link href="https://lgilpin.github.io/authors/lalana-kagal/index.xml" rel="self" type="application/rss+xml" />
     <description>Lalana Kagal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Lalana Kagal</title>
       <link>https://lgilpin.github.io/authors/lalana-kagal/</link>
     </image>
+    
+    <item>
+      <title>Explaining Multimodal Errors in Autonomous Vehicles</title>
+      <link>https://lgilpin.github.io/publication/gilpin-2021-multimodal/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/gilpin-2021-multimodal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning From Explanations for Robust Autonomous Driving.</title>

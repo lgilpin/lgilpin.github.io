@@ -5,12 +5,20 @@
     <link>https://lgilpin.github.io/publication_types/2/</link>
       <atom:link href="https://lgilpin.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lgilpin.github.io/img/good1.png</url>
       <title>2</title>
       <link>https://lgilpin.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>A Knowledge Driven Approach to Adaptive Assistance Using Preference Reasoning and Explanation</title>
+      <link>https://lgilpin.github.io/publication/wilson-2020-knowledge/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/wilson-2020-knowledge/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Monitoring Opaque Learning Systems</title>

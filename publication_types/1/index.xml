@@ -5,12 +5,36 @@
     <link>https://lgilpin.github.io/publication_types/1/</link>
       <atom:link href="https://lgilpin.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lgilpin.github.io/img/good1.png</url>
       <title>1</title>
       <link>https://lgilpin.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Explaining Multimodal Errors in Autonomous Vehicles</title>
+      <link>https://lgilpin.github.io/publication/gilpin-2021-multimodal/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/gilpin-2021-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A stress testing framework for autonomous system verification and validation (v&amp;v)</title>
+      <link>https://lgilpin.github.io/publication/falco-2021-stress/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/falco-2021-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anticipatory Thinking: A Testing and Representation Challenge for Self-Driving Cars</title>
+      <link>https://lgilpin.github.io/publication/gilpin-2021-anticipatory/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/gilpin-2021-anticipatory/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explaining Possible Futures for Robust Autonomous Decision-Making</title>

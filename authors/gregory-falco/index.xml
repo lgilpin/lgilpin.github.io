@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregory Falco | Leilani H. Gilpin</title>
+    <link>https://lgilpin.github.io/authors/gregory-falco/</link>
+      <atom:link href="https://lgilpin.github.io/authors/gregory-falco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gregory Falco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lgilpin.github.io/img/good1.png</url>
+      <title>Gregory Falco</title>
+      <link>https://lgilpin.github.io/authors/gregory-falco/</link>
+    </image>
+    
+    <item>
+      <title>A stress testing framework for autonomous system verification and validation (v&amp;v)</title>
+      <link>https://lgilpin.github.io/publication/falco-2021-stress/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/falco-2021-stress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

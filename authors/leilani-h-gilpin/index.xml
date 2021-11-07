@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leilani H Gilpin | Leilani H. Gilpin</title>
+    <link>https://lgilpin.github.io/authors/leilani-h-gilpin/</link>
+      <atom:link href="https://lgilpin.github.io/authors/leilani-h-gilpin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leilani H Gilpin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lgilpin.github.io/img/good1.png</url>
+      <title>Leilani H Gilpin</title>
+      <link>https://lgilpin.github.io/authors/leilani-h-gilpin/</link>
+    </image>
+    
+    <item>
+      <title>A stress testing framework for autonomous system verification and validation (v&amp;v)</title>
+      <link>https://lgilpin.github.io/publication/falco-2021-stress/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/falco-2021-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anticipatory Thinking: A Testing and Representation Challenge for Self-Driving Cars</title>
+      <link>https://lgilpin.github.io/publication/gilpin-2021-anticipatory/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/publication/gilpin-2021-anticipatory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
