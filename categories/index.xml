@@ -5,12 +5,20 @@
     <link>https://lgilpin.github.io/categories/</link>
       <atom:link href="https://lgilpin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 13:40:25 +0100</lastBuildDate>
     <image>
       <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Categories</title>
       <link>https://lgilpin.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>recruiting</title>
+      <link>https://lgilpin.github.io/categories/recruiting/</link>
+      <pubDate>Wed, 04 Mar 2020 13:40:25 +0100</pubDate>
+      <guid>https://lgilpin.github.io/categories/recruiting/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
