@@ -95,6 +95,22 @@
     </item>
     
     <item>
+      <title>Anomaly Detection Through Explanations</title>
+      <link>https://lgilpin.github.io/talk/fuzz-ieee-2021/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/talk/fuzz-ieee-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Explanations in AI</title>
+      <link>https://lgilpin.github.io/talk/nw-xai-2021/</link>
+      <pubDate>Wed, 12 May 2021 09:50:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/talk/nw-xai-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A stress testing framework for autonomous system verification and validation (v&amp;v)</title>
       <link>https://lgilpin.github.io/publication/falco-2021-stress/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
