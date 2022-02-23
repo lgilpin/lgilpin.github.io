@@ -441,25 +441,28 @@
       <link>https://lgilpin.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lgilpin.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am an Assistant Professor in Computer Science and Engineering at UC
-Santa Cruz.  Previously, I was a research scientist at Sony AI working
-on explainability in AI agents.  I graduated with my PhD in Electrical
-Engineering and Computer Science at MIT in CSAIL, where I continue as
-a collaborating researcher.  During my PhD, I developed &amp;ldquo;Anomaly
-Detection through Explanations&amp;rdquo; or ADE, a self-explaining, full system
-monitoring architecture to detect and explain inconsistencies in
-autonomous vehicles.  This allows machines and other complex
-mechanisms to be able to interpret their actions and learn from their
-mistakes.&lt;/p&gt;
+      <description>&lt;p&gt;I am an Assistant Professor in 
+&lt;a href=&#34;https://engineering.ucsc.edu/departments/computer-science-and-engineering&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Science and Engineering&lt;/a&gt;
+and an affiliate of the 
+&lt;a href=&#34;https://scijust.ucsc.edu/about-sjrc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science &amp;amp; Justic Research Center&lt;/a&gt;
+at UC Santa Cruz.&lt;/p&gt;
+&lt;p&gt;Previously, I was a research scientist at Sony AI
+working on explainability in AI agents.  I graduated with my PhD in
+Electrical Engineering and Computer Science at MIT in CSAIL, where I
+continue as a collaborating researcher.  During my PhD, I developed
+&amp;ldquo;Anomaly Detection through Explanations&amp;rdquo; or ADE, a self-explaining,
+full system monitoring architecture to detect and explain
+inconsistencies in autonomous vehicles.  This allows machines and
+other complex mechanisms to be able to interpret their actions and
+learn from their mistakes.&lt;/p&gt;
 &lt;p&gt;My research focuses on the theories and methodologies towards
 monitoring, designing, and augmenting complex machines that can
 &lt;strong&gt;explain&lt;/strong&gt; themselves for diagnosis, accountability, and
 liability. My long-term research vision is for self-explaining,
 intelligent, machines by design.&lt;/p&gt;
-&lt;p&gt;I am currently looking for motivated PhD students; please see 
-&lt;a href=&#34;post/recruiting/&#34;&gt;this post&lt;/a&gt; and
+&lt;!-- I am currently looking for motivated PhD students; please see [this post](post/recruiting/) and
 reach out to me on Twitter or by email if the above description
-interests you!&lt;/p&gt;
+interests you!--&gt;
 </description>
     </item>
     
