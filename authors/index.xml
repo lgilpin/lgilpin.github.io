@@ -5,7 +5,7 @@
     <link>https://lgilpin.github.io/authors/</link>
       <atom:link href="https://lgilpin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Nov 2021 09:50:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 10:30:00 +0000</lastBuildDate>
     <image>
       <url>https://lgilpin.github.io/img/good1.png</url>
       <title>Authors</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Filip Ilievski</title>
+      <link>https://lgilpin.github.io/authors/filip-ilievski/</link>
+      <pubDate>Fri, 30 Sep 2022 10:30:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/authors/filip-ilievski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Leilani H. Gilpin</title>
       <link>https://lgilpin.github.io/authors/leilani-h.-gilpin/</link>
-      <pubDate>Thu, 18 Nov 2021 09:50:00 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 10:30:00 +0000</pubDate>
       <guid>https://lgilpin.github.io/authors/leilani-h.-gilpin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Razvan V. Marinescu</title>
+      <link>https://lgilpin.github.io/authors/razvan-v.-marinescu/</link>
+      <pubDate>Thu, 08 Sep 2022 11:00:00 +0000</pubDate>
+      <guid>https://lgilpin.github.io/authors/razvan-v.-marinescu/</guid>
       <description></description>
     </item>
     
